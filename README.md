@@ -15,6 +15,7 @@ https://cash.app/$KenM1337/
 
 When submitting an Error/Bug Report please follow this posting format. Simply Copy and paste into your new thread and edit with your information.
 Using this Error/Bug Report format helps our developer resolve your issue(s) faster.
+```
 User Contact Info: Your name and email address/discord.
 Version: The product version.
 
@@ -38,7 +39,7 @@ A detailed description of bug.
 
 Steps To Reproduce Error/Bug:
 Explain how we can reproduce the error on our end.
-
+```
 
 Credits:
 Hoverbike1: https://github.com/hoverbike1
