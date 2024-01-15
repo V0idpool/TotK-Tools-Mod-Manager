@@ -41,6 +41,7 @@ Steps To Reproduce Error/Bug:
 Explain how we can reproduce the error on our end.
 ```
 
+
 Credits:
 Hoverbike1: https://github.com/hoverbike1
 MaxLastBreath: https://github.com/MaxLastBreath
@@ -49,6 +50,7 @@ MediaMoots: https://github.com/MediaMoots
 Marc Robledo: https://github.com/marcrobledo
 TotK RSTB Tool Github: https://github.com/VelouriasMoon/TotkRSTB
 Save Editor: https://github.com/marcrobledo/savegame-editors/tree/master/zelda-totk
+
 
 Requirements
 Dependencies and prerequisites required to use this Mod
