@@ -13,7 +13,6 @@ namespace TotKModManager
 
 
     // Name: Net Seal Theme
-    // Created: 6/21/2013
     // Version: 1.0.0.1 beta
 
     abstract public class ThemeModule : ContainerControl
