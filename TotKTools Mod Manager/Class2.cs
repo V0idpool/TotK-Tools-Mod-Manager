@@ -8,8 +8,6 @@ namespace TotKModManager
 
     // ------------------
     // Creator: aeonhack
-    // Created: 08/02/2011
-    // Changed: 12/06/2011
     // Version: 1.5.4
     // ------------------
 
