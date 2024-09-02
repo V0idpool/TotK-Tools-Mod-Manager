@@ -1,0 +1,42 @@
+###################################################################################################
+#________________________________     TotK Tools Mod Manager    __________________________________#
+#                                                                                                 #
+###################################################################################################
+GitHub Page: https://github.com/V0idpool/TotK-Tools-Mod-Manager
+REQUIREMENTS
+
+This program runs off of .Net 7.0 Assets, and uses 7Zip Compression libraries.
+
+Download and install .Net Desktop Runtime Version 7 linked here:
+https://download.visualstudio.microsoft.com/download/pr/5e3be9c1-4b4c-4605-b3bc-18ef04b3c8d5/b1f864adc9c81ab6680385a4270b3887/dotnet-runtime-7.0.14-win-x64.exe
+
+Download and install 7Zip linked here:
+https://www.7-zip.org/a/7z2301-x64.exe
+ 
+This is a very early build of the TotK Tools Mod Manager
+ 
+It currently has a YUZU Preset Optimization feature,  Yuzu auto-detect install location, 
+Save Editor, Save backups/restores, Mod backups/restores, Enable/Disable Mods,
+Downloading the master mod pack by Hoverbike1, RSTB Editor, zStd De/Compressor,
+run game/EMU from TotK Tools Mod Manager, and Cheats from hoverbike1's github repo. 
+More features being added nearly daily.
+ 
+More features will be added
+
+Inb4 shameless donation plugs D: 
+https://www.buymeacoffee.com/voidpool
+https://cash.app/$KenM1337/
+
+Credits:
+Hoverbike1: https://github.com/hoverbike1
+MaxLastBreath: https://github.com/MaxLastBreath
+VelouriasMoon Moonling: https://github.com/VelouriasMoon
+MediaMoots: https://github.com/MediaMoots
+Marc Robledo: https://github.com/marcrobledo
+TotK RSTB Tool Github: https://github.com/VelouriasMoon/TotkRSTB
+Save Editor: https://github.com/marcrobledo/savegame-editors/tree/master/zelda-totk
+
+Dependencies and prerequisites required to use this Mod
+
+.Net Desktop Runtime 8.0 (REQUIRED)
+7zip File Extractor/Decompressor (REQUIRED)
