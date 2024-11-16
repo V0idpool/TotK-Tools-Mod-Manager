@@ -4,7 +4,7 @@ This is a very early build of the TotK Tools Mod Manager
 
  It currently has a YUZU Preset Optimization feature,  Yuzu auto-detect install location, Save Editor, Save backups/restores, Mod backups/restores, Enable/Disable Mods, Downloading the master mod pack by Hoverbike1, RSTB Editor, zStd De/Compressor, run game/EMU from TotK Tools Mod Manager, and Cheats from hoverbike1's github repo. More features being added nearly daily.
  
-Join my TTMM Discord Server: https://discord.gg/D9nAAWQe4d
+Join my TTMM Discord Server: https://discord.gg/sSvYETTScb
 
 Download from GameBanana: https://gamebanana.com/tools/15780
 Download from NexusMods: https://www.nexusmods.com/legendofzeldatearsofthekingdom/mods/122
