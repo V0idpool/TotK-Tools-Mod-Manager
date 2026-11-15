@@ -6,7 +6,6 @@ This is a very early build of the TotK Tools Mod Manager
  
 Join my TTMM Discord Server: https://discord.gg/sSvYETTScb
 
-Download from GameBanana: https://gamebanana.com/tools/15780
 Download from NexusMods: https://www.nexusmods.com/legendofzeldatearsofthekingdom/mods/122
 
 Inb4 shameless donation plugs D: 
